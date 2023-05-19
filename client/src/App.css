@@ -16,7 +16,7 @@
   
   .auth__form-container {
     min-height: 100vh;
-    display: flex;
+    display: block;
     flex-direction: row;
   }
   
